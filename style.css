@@ -1,0 +1,22 @@
+@charset "utf-8";
+
+body {
+    border-radius: 100px;
+    box-shadow: 5px 5px 5px 5px rgb(0, 0, 0);
+    color: rgb(0, 0, 0);
+    background-image: linear-gradient(to top, rgb(115, 101, 101), rgb(222, 178, 95));
+    text-align: center;
+    padding: 100px;
+    margin-left: 4cm;
+    margin-right: 4cm;
+    text-align: justify;
+}
+
+a {
+    font-size: xx-large;
+    color: rgb(0, 0, 0);
+}
+
+h1 {
+    font-size: xx-large;
+}
